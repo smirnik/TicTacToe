@@ -1,0 +1,21 @@
+﻿.chat-message {
+    font-size: 0.9em;
+    color: #0e11a5;
+    margin: 5px 0 0 0;
+}
+
+.chat-message-info {
+    color: #1d3557;
+}
+
+.chat-message-warning {
+    color: #ff8d00;
+}
+
+.chat-message-time {
+    color: #535353;
+}
+
+.chat-message-name {
+    font-weight: bold;
+}
